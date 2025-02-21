@@ -11,6 +11,7 @@ public class Varaible{
 
         String name ="Darain";
         System.out.println(name);
+        System.out.println("faisal");
         
     }
 }
