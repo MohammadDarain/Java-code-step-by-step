@@ -6,6 +6,8 @@ public class Varaible{
 
         char ch ='d';
         System.out.println(ch);
+        System.out.println(ch);
+        
 
         String name ="Darain";
         System.out.println(name);
