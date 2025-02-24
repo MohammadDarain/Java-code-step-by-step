@@ -30,5 +30,14 @@ public class AllDatatypes {
 
         String str = "darain";
         System.out.println(str);
+
+        int a = 10;
+
+        // System.out.println(--a);
+        // System.out.println(a--);
+        // System.out.println(a);
+
+        System.out.println(a++);
+        System.out.println(++a);
     }
 }
